@@ -1,4 +1,4 @@
-PROYECTOS DE BIODISEÑO - Grupo 1
+<h1>PROYECTOS DE BIODISEÑO - Grupo 1</h1>
 
 Bienvenidos al repositorio del grupo 1 del curso "Proyectos de biodiseño 1" horario B601
 
