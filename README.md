@@ -7,9 +7,8 @@ Tema de interes: Trastornos neurológicos (retinopatia diabetica)
 Integrantes:
 - Adriano Tassi Romero - adriano.tassi@upch.pe
 - Alessandro Nicolas Crosby Collantes - alessandro.crosby@upch.pe
-- Luis Antonio Gutierrez Nuñez - luis.gutierrez.n@upch.pe
-- Jonatan Esteban Huiñapi Huaman - jonatan.huinapi@upch.pe
-- Ricardo Sebastian Murillo Sedano -  ricardo.murillo@upch.pe
+- Camila Andrea Seijas Rojas - camila.seijas@upch.pe
+- Fabio Ivan Garcia Soto - fabio.garcia@upch.pe
 - Xavier Alexis Hernandez Jeronimo - xavier.hernandez@upch.pe
 
   <img src="Imagenes/group pic.jpg" width="500" />
