@@ -15,4 +15,4 @@ Problematica:
 - Dificultad de acceso al diagnostico de retinopatia diabetica en zonas rurales o de bajos recursos
 - Falta de herramientas accesibles y automatizadas que permitan a medicos no especialistas realizar un diagnostico preventivo de retinopatia diabetica
 
-  <img src="ImÁgenes/BIODISIN.jpeg" width="500" />
+  <img src="Imágenes/BIODISIN.jpeg" width="500" />
