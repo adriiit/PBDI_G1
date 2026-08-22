@@ -2,7 +2,7 @@
 
 Bienvenidos al repositorio del grupo 1 del curso "Proyectos de biodiseño 1" horario B601
 
-Tema de interes: Trastornos neurológicos (retinopatia diabetica)
+Tema de interes: Retinopatia diabetica
 
 Integrantes:
 - Adriano Tassi Romero - adriano.tassi@upch.pe
