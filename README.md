@@ -11,4 +11,6 @@ Integrantes:
 - Fabio Ivan Garcia Soto - fabio.garcia@upch.pe
 - Xavier Alexis Hernandez Jeronimo - xavier.hernandez@upch.pe
 
+Problematica:
+
   <img src="Imagenes/group pic.jpg" width="500" />
