@@ -13,6 +13,6 @@ Integrantes:
 
 Problematica:
 - Dificultad de acceso al diagnostico de retinopatia diabetica en zonas rurales o de bajos recursos
-- Falta de herramientas accesibles e automatizadas que permitan a medicos no especialistas realizar un diagnostico preventivo de retinopatia diabetica
+- Falta de herramientas accesibles y automatizadas que permitan a medicos no especialistas realizar un diagnostico preventivo de retinopatia diabetica
 
   <img src="Imagenes/group pic.jpg" width="500" />
