@@ -2,7 +2,7 @@
 
 Bienvenidos al repositorio del grupo 1 del curso "Proyectos de biodiseño 1" horario B601
 
-Tema de interes: Retinopatia diabetica
+Tema de interes: Retinopatía diabética
 
 Integrantes:
 - Adriano Tassi Romero - adriano.tassi@upch.pe
@@ -11,8 +11,8 @@ Integrantes:
 - Fabio Ivan Garcia Soto - fabio.garcia@upch.pe
 - Xavier Alexis Hernandez Jeronimo - xavier.hernandez@upch.pe
 
-Problematica:
-- Dificultad de acceso al diagnostico de retinopatia diabetica en zonas rurales o de bajos recursos
-- Falta de herramientas accesibles y automatizadas que permitan a medicos no especialistas realizar un diagnostico preventivo de retinopatia diabetica
+Problemática:
+- Dificultad de acceso al diagnostico de retinopatia diabetica en zonas rurales o de bajos recursos.
+- Falta de herramientas accesibles y automatizadas que permitan a medicos no especialistas realizar un diagnostico preventivo de retinopatia diabetica.
 
   <img src="Recursos/Images/BIODISIN.jpeg" width="500" />
