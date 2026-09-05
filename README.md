@@ -12,7 +12,7 @@ Integrantes:
 - Xavier Alexis Hernandez Jeronimo - xavier.hernandez@upch.pe
 
 Problemática:
-- Dificultad de acceso al diagnóstico de retinopatía diabética en zonas rurales o de bajos recursos. xd
+- Dificultad de acceso al diagnóstico de retinopatía diabética en zonas rurales o de bajos recursos. 
 - Falta de herramientas accesibles y automatizadas que permitan a médicos no especialistas realizar un diagnóstico preventivo de retinopatía diabética.
 
   <img src="Recursos/Images/BIODISIN.jpeg" width="500" />
