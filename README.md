@@ -16,3 +16,4 @@ Problemática:
 - Falta de herramientas accesibles y automatizadas que permitan a médicos no especialistas realizar un diagnóstico preventivo de retinopatía diabética.
 
   <img src="Recursos/Images/BIODISIN.jpeg" width="500" />
+Pene de oso
