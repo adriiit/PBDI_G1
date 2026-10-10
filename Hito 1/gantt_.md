@@ -5,12 +5,12 @@ gantt
     title Cronograma de Actividades
 
     section Hito 1
-    Búsqueda de información sobre el problema [10h]      :a1, 2026-08-21, 5d
-    Definición del marco teórico [8h]                    :a2, 2026-08-25, 4d
-    Lista de exigencias [12h]                            :a3, 2026-08-29, 5d
-    Estructura de funciones [18h]                        :a4, 2026-09-4, 6d
-    Matriz morfológica [20h]                             :a5, after a4, 7d
-    Evaluación H1 [0h]                                   :milestone, h1, 2026-09-19, 0d
+    Búsqueda de información sobre el problema [10h] [All]      :a1, 2026-08-21, 5d
+    Definición del marco teórico [8h] [AC, CS, FG]                    :a2, 2026-08-25, 4d
+    Lista de exigencias [12h] [AT, AC, XH]                            :a3, 2026-08-29, 5d
+    Estructura de funciones [18h] [CS, FG]                        :a4, 2026-09-4, 6d
+    Matriz morfológica [20h] [ALL]                            :a5, after a4, 7d
+    Evaluación H1 [0h] [ALL]                                   :milestone, h1, 2026-09-19, 0d
 
     section Hito 2
     Conceptos básicos del diseño enfocados al usuario [15h] :b1, 2026-09-23, 5d
