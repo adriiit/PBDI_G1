@@ -5,10 +5,10 @@ gantt
     title Cronograma de Actividades
 
     section Hito 1
-    Búsqueda de información sobre el problema [12h]      :a1, 2026-08-21, 5d
-    Definición del marco teórico [8h]                    :a2, 2026-08-22, 4d
-    Lista de exigencias [16h]                            :a3, 2026-08-26, 4d
-    Estructura de funciones [20h]                        :a4, 2026-08-28, 7d
+    Búsqueda de información sobre el problema [10h]      :a1, 2026-08-21, 4d
+    Definición del marco teórico [8h]                    :a2, 2026-08-23, 3d
+    Lista de exigencias [12h]                            :a3, 2026-08-26, 5d
+    Estructura de funciones [18h]                        :a4, 2026-08-28, 6d
     Matriz morfológica [20h]                             :a5, after a4, 7d
     Evaluación H1 [0h]                                   :milestone, h1, 2026-09-19, 0d
 
