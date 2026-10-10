@@ -6,7 +6,7 @@ gantt
 
     section Hito 1
     Búsqueda de información sobre el problema [12h]      :a1, 2026-08-21, 3d
-    Definición del marco teórico [8h]                    :a2, after a1, 2d
+    Definición del marco teórico [8h]                    :a2, a1, 2d
     Lista de exigencias [16h]                            :a3, after a2, 5d
     Estructura de funciones [20h]                        :a4, after a3, 7d
     Matriz morfológica [20h]                             :a5, after a4, 7d
