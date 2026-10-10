@@ -41,5 +41,6 @@ gantt
 | **CS** | Camila Seijas |
 | **FG** | Fabio García |
 | **XH** | Xavier Hernandez |
+| **ALL** | Todos los integrantes |
 
 </div>
