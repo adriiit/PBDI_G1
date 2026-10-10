@@ -13,13 +13,13 @@ gantt
     Evaluación H1 [0h] [ALL]                                   :milestone, h1, 2026-09-19, 0d
 
     section Hito 2
-    Conceptos básicos del diseño enfocados al usuario [15h] [ALL] :b1, 2026-09-23, 5d
-    Conceptos de solución óptimo [20h] [ALL]                   :b2, after b1, 7d
-    Entrevista del usuario y feedback [10h] [ALL]             :b3, after b2, 4d
-    Proyecto preliminar [8h] [ALL]                             :b4, after b3, 2d
+    Conceptos básicos del diseño enfocados al usuario [15h] [ALL] :b1, 2026-09-23, 6d
+    Conceptos de solución óptimo [15h] [ALL]                   :b2, after b1, 6d
+    Entrevista del usuario y feedback [6h] [ALL]             :b3, after b2, 3d
     Evaluación H2 [0h] [ALL]                                   :milestone, h2, 2026-10-10, 0d
 
     section Hito 3
+    Proyecto preliminar [8h] [ALL]                             :b4, 2026-10-13, 4d
     Pruebas en simuladores del proyecto [10h] [ALL]           :c1, 2026-10-21, 5d
     Pruebas de tarjetas de prototipado electrónico [12h] [ALL] :c2, after c1, 6d
     Visión del prototipado en CAD [10h] [ALL]                  :c3, after c2, 5d
