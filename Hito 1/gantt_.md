@@ -1,3 +1,16 @@
+# Cronograma del Proyecto
+
+<div align="right">
+
+| Abreviatura | Integrante |
+| :---: | :--- |
+| **AT** | Adriano Tassi |
+| **AC** | Alessandro Crossby |
+| **CS** | Camila Seijas |
+| **FG** | Fabio García |
+| **XH** | Xavier Hernandez |
+
+</div>
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
