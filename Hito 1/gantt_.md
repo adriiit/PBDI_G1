@@ -26,7 +26,7 @@ gantt
     Evaluación H3 [0h]                                   :milestone, h3, 2026-11-14, 0d
 
     section Hito 4
-
+```
 <div align="right">
 
 | Abreviatura | Integrante |
