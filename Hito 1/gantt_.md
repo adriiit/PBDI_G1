@@ -17,7 +17,7 @@ gantt
     Conceptos de solución óptimo [20h]                   :b2, after b1, 7d
     Entrevista del usuario y feedback [10h]              :b3, after b2, 4d
     Proyecto preliminar [8h]                             :b4, after b3, 2d
-    Evaluación H2 [0h]                                   :h2, 2026-10-10, 0d
+    Evaluación H2 [0h]                                   :milestone, h2, 2026-10-10, 0d
 
     section Hito 3
     Pruebas en simuladores del proyecto [20h]            :c1, 2026-10-21, 7d
