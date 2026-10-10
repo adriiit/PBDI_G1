@@ -6,7 +6,7 @@ gantt
 
     section Hito 1
     Búsqueda de información sobre el problema [12h]      :a1, 2026-08-21, 3d
-    Definición del marco teórico [8h]                    :a2, a1, 2d
+    Definición del marco teórico [8h]                    :a2, 2026-08-23, 3d
     Lista de exigencias [16h]                            :a3, after a2, 5d
     Estructura de funciones [20h]                        :a4, after a3, 7d
     Matriz morfológica [20h]                             :a5, after a4, 7d
@@ -17,7 +17,7 @@ gantt
     Conceptos de solución óptimo [20h]                   :b2, after b1, 7d
     Entrevista del usuario y feedback [10h]              :b3, after b2, 4d
     Proyecto preliminar [8h]                             :b4, after b3, 2d
-    Evaluación H2 [0h]                                   :milestone, h2, 2026-10-10, 0d
+    Evaluación H2 [0h]                                   :h2, 2026-10-10, 0d
 
     section Hito 3
     Pruebas en simuladores del proyecto [20h]            :c1, 2026-10-21, 7d
