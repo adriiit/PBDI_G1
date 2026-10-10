@@ -26,6 +26,18 @@ gantt
     Evaluación H3 [0h]                                   :milestone, h3, 2026-11-14, 0d
 
     section Hito 4
+
+<div align="right">
+
+| Abreviatura | Integrante |
+| :---: | :--- |
+| **AT** | Adriano Tassi |
+| **AC** | Alessandro Crossby |
+| **CS** | Camila Seijas |
+| **FG** | Fabio García |
+| **XH** | Xavier Hernandez |
+
+</div>
     Validación del prototipo funcional 1 [8h]            :d1, 2026-11-18, 2d
     Construcción del prototipo funcional [12h]           :d2, after d1, 3d
     Entrevista de solución [8h]                          :d3, after d2, 2d
