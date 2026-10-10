@@ -19,10 +19,10 @@ gantt
     Evaluación H2 [0h] [ALL]                                   :milestone, h2, 2026-10-10, 0d
 
     section Hito 3
-    Proyecto preliminar [8h] [ALL]                             :b4, 2026-10-13, 4d
-    Pruebas en simuladores del proyecto [10h] [ALL]           :c1, 2026-10-21, 5d
-    Pruebas de tarjetas de prototipado electrónico [12h] [ALL] :c2, after c1, 6d
-    Visión del prototipado en CAD [10h] [ALL]                  :c3, after c2, 5d
+    Proyecto preliminar [12h] [ALL]                             :c1, 2026-10-13, 6d
+    Pruebas en simuladores del proyecto [10h] [ALL]           :c2, 2026-10-21, 5d
+    Pruebas de tarjetas de prototipado electrónico [12h] [ALL] :c3, 2026-10-28, 6d
+    Visión del prototipado en CAD [14h] [ALL]                  :c4, 2026-11-04, 7d
     Evaluación H3 [0h] [ALL]                                   :milestone, h3, 2026-11-14, 0d
 
     section Hito 4
