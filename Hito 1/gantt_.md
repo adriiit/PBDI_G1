@@ -26,8 +26,13 @@ gantt
     Evaluación H3 [0h]                                   :milestone, h3, 2026-11-14, 0d
 
     section Hito 4
+    Validación del prototipo funcional 1 [8h]            :d1, 2026-11-18, 2d
+    Construcción del prototipo funcional [12h]           :d2, after d1, 3d
+    Entrevista de solución [8h]                          :d3, after d2, 2d
+    Validación del prototipo funcional 2 [15h]           :d4, after d3, 5d
+    Evaluación H4 [0h]                                   :milestone, h4, 2026-12-05, 0d
 ```
-<div align="right">
+<div>
 
 | Abreviatura | Integrante |
 | :---: | :--- |
@@ -38,8 +43,3 @@ gantt
 | **XH** | Xavier Hernandez |
 
 </div>
-    Validación del prototipo funcional 1 [8h]            :d1, 2026-11-18, 2d
-    Construcción del prototipo funcional [12h]           :d2, after d1, 3d
-    Entrevista de solución [8h]                          :d3, after d2, 2d
-    Validación del prototipo funcional 2 [15h]           :d4, after d3, 5d
-    Evaluación H4 [0h]                                   :milestone, h4, 2026-12-05, 0d
